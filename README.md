@@ -1,4 +1,4 @@
-I'm Carl Stone, a 3rd year Ph.D. candidate at Vanderbilt University in Dr. Megan Behringer's lab. 
+I'm Carl Stone, a Ph.D. candidate at Vanderbilt University in Dr. Megan Behringer's lab. 
 I am interested in how a bacterial cell evolves into a bacterial community.
 
 Find me on twitter [@StarlCone](https://twitter.com/starlcone) or email me @ carl.j.stone@vanderbilt.edu
